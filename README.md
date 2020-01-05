@@ -1,2 +1,3 @@
-# my-portfolio
-This is my portfolio repository
+# Ross's Portfolio
+
+This is my professional portfolio. It uses AWS and ReactJS
